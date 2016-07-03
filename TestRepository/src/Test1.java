@@ -25,5 +25,12 @@ public class Test1 {
 	public static void method5() {
 		System.out.println("Added Mehod 5 in Remote Git Repository");
 	}
+	public static void method6() {
+		System.out.println("Added Mehod 6 in Local to test Multiple commits as one to upstream");
+	}
+	
+	public static void method7() {
+		System.out.println("Added Mehod 7 in Local to test Multiple commits as one to upstream");
+	}
 
 }
