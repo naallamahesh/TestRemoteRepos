@@ -9,5 +9,9 @@ public class Test1 {
 		System.out.println("Added Mehod 1 in Local");
 
 	}
+	public static void method2() {
+		System.out.println("Added Mehod 2 in Remote Git Repository");
+
+	}
 
 }
