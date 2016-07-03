@@ -13,5 +13,9 @@ public class Test1 {
 		System.out.println("Added Mehod 2 in Remote Git Repository");
 
 	}
+	public static void method3() {
+		System.out.println("Added Mehod 3 in Remote Git Repository");
+
+	}
 
 }
